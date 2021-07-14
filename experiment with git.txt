@@ -1,0 +1,21 @@
+Setup
+c:\Users\dev374\OneDrive - DEVnet GmbH\Dokumente\13 GIT presentation\
+
+Clone repo
+
+.gitignore
+
+Sending to remote
+
+Pulling from remote
+
+
+Git flow
+- create develop
+- finish hotfix, deletes branch and tags
+
+Pull requests
+
+
+
+
